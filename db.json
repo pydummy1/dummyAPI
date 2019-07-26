@@ -1,0 +1,31 @@
+{
+  "payrolls": [
+    {
+      "endingDate": "10/05/2019",
+      "weekNumber": 1,
+      "revenue": 10000,
+      "payrollCost": 11000,
+      "wages": 9500,
+      "workersComp": 585,
+      "adpFees": 140
+    },
+    {
+      "endingDate": "10/06/2019",
+      "weekNumber": 1,
+      "revenue": 10000,
+      "payrollCost": 11000,
+      "wages": 9500,
+      "workersComp": 585,
+      "adpFees": 140
+    },
+    {
+      "endingDate": "10/07/2019",
+      "weekNumber": 1,
+      "revenue": 12000,
+      "payrollCost": 13000,
+      "wages": 9440,
+      "workersComp": 285,
+      "adpFees": 120
+    }
+  ]
+}
